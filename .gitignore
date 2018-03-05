@@ -1,0 +1,15 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+.idea/*
+./.idea/*
+./.idea/workspace.xml
+./.vagrant/*
+.idea/deployment.xml
+.idea/php.xml
+public/instituciones/*
+public/jugadores/*
+public/equipos/*
+.vagrant/*
